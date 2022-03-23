@@ -36,6 +36,3 @@ Here are some ideas to get you started:
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqi&theme=dark" alt="logo" height="220"/>
 	<img src="https://github-readme-stats.vercel.app/api?username=ivanqi&show_icons=true&theme=dark&count_private=true" alt="logo" height="220"  />
 </p>
-
-<b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanqi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m0rp43us" /></p>
