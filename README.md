@@ -27,11 +27,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-
-### Technologies
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-
 <p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqi&theme=dark" alt="logo" height="220"/>
 	<img src="https://github-readme-stats.vercel.app/api?username=ivanqi&show_icons=true&theme=dark&count_private=true" alt="logo" height="220"  />
