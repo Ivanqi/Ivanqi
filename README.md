@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 
 <p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqi&theme=dark" alt="logo" height="220"/>
-	<img src="https://github-readme-stats.vercel.app/api?username=ivanqi&show_icons=true&theme=dark&count_private=true" alt="logo" height="220"  />
 </p>
