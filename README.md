@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 <p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqi&theme=dark" alt="logo" height="220"/>
 </p>
-<p> ![visitor counter](https://profile-counter.glitch.me/ivanqi/count.svg) </p>
+
+#### Page visitor counter
+![visitor counter](https://profile-counter.glitch.me/ivanqi/count.svg)
