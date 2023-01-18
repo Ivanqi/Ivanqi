@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqi&theme=dark" alt="logo" height="220"/>
-
 ### Hi there 👋
 
 你好，我是Ivan.QI
